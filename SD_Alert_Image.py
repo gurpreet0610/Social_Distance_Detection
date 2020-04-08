@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Created on Tue Apr 7 00:10:36 2020
 
