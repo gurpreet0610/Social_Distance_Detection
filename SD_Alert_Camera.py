@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Apr 12 00:10:36 2020
+Created on Tue Apr 12 00:10:36 2020
 
-@author: Venkatagiri Ramesh
+@author: Gurpreet Singh
 """
 
 import numpy as np
